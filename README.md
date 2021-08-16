@@ -1,7 +1,6 @@
 # Module Project: Context API - Shopping Cart
 
 In this module you will take your newfound knowledge of `Context API` and refactor a e-commerce store to use `Context API` as well as extend the functionality of the application making it more robust!
-
 - [Module Project: Context API - Shopping Cart](#module-project-context-api---shopping-cart)
   - [Introduction](#introduction)
     - [Commits](#commits)
@@ -14,7 +13,8 @@ In this module you will take your newfound knowledge of `Context API` and refact
   - [Rick Mansfield's pull/push req link](#rick-mansfields-pullpush-req-link)
   - [Potential Interview Questions based on today's lecture.](#potential-interview-questions-based-on-todays-lecture)
   - [Resources](#resources)
-
+    - [Solutions Video](#solutions-video)
+    - [PW: i31J4k](#pw-i31j4k)
 ## Introduction
 
 Read these instructions carefully. Understand exactly what is expected _before_ starting this project.
@@ -189,4 +189,7 @@ Do not attempt stretch problems until MVP has been reached and a final commit ha
    -  A. Your application state is global, and your component state is local. Flux or a flux-like library like Redux, use what they call "stores" to hold application state. That means any component, anywhere in the app can access it (kind of like a database) so long as they hook into it. Component state however, lives within that specific component
 
 ## Resources
-- 
+  
+### [Solutions Video](https://www.loom.com/share/7102e4c7b8f3427b916e6b4a9fb8b31d) 
+
+### PW: i31J4k
